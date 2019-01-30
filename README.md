@@ -1,1 +1,2 @@
 # TSpractice
+デザパタのレポジトリで作ったbuilderパターンのプログラムをTSに移植し、TypeScriptの練習をした。
